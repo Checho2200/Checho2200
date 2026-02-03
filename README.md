@@ -5,7 +5,7 @@
     <br>
     Egresado de <b>Ingeniería de Sistemas</b> — Universidad César Vallejo, Trujillo.
     <br>
-    De Santa, Ancash, Perú.
+    Natural de Santa, Ancash, Perú.
   </samp>
   <br>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
@@ -19,7 +19,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-**Backend & datos**  
+**Backend**  
 ![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat&logo=django&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
@@ -39,6 +39,3 @@
 - Análisis y reportes: **Excel** y **Power BI**.
 - Experiencia en **soporte técnico**.
 
-### Contacto
-
-- [sergiociudadora.com](https://sergiociudadora.com/)
