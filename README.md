@@ -1,57 +1,48 @@
-<div align="center">
+<p align="center">
+  <br>
+  <samp>
+    Hola! mi nombre es <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Sergio Ciudad Ora</a></b>.
+    <br>Bachiller en ingeniería de sistemas.<br>
 
-<img src="https://readme-typing-svg.deanlist.app?font=Outfit&size=32&duration=2200&pause=1200&color=FFFFFF&center=true&vCenter=true&multiline=true&width=550&lines=Hola%2C+soy+Checho;Developer+·+Data+Analysis+·+Support" alt="typing" />
+</samp>
+
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
+
+
+<details align="center">
+
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+
+Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Egresado+Ingeniería+de+Sistemas-Universidad+César+Vallejo-4a90d9?style=flat-square&labelColor=1e1e2e&color=2a2a3d&fontColor=ffffff" />
-</p>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+  &nbsp; 
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
+  &nbsp; 
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
+  &nbsp;
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
+</p> 
 
-<p align="center" style="color: #6e7681; max-width: 480px; line-height: 1.7; font-size: 15px;">
-  Front-end developer especializado en React. Egresado de Ingeniería de Sistemas en la Universidad César Vallejo. Experiencia en soporte técnico y actualmente en proceso de especialización en análisis de datos.
-</p>
 
-</div>
+</samp>
+</details>
 
----
+----
+Credits: [TanZng](https://github.com/TanZng)
 
-<div align="center">
-
-## Technologies
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,python,django&theme=dark&perline=6" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=6" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=1e1e2e" />
-&nbsp;
-<img src="https://img.shields.io/badge/Power+BI-F2C80F?style=flat-square&logo=powerbi&logoColor=000&labelColor=1e1e2e" />
-
-</div>
-
----
-
-<div align="center">
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Checho2200&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=7ee787&border_radius=10&hide=stars&rank_icon=percentile" width="380" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Checho2200&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&border_radius=10&langs_count=7" width="280" />
-
-</div>
-
----
-
-<div align="center">
-
-## Contact
-
-<a href="https://github.com/Checho2200">
-  <img src="https://img.shields.io/badge/GitHub-Checho2200-c9d1d9?style=flat-square&logo=github&logoColor=c9d1d9&labelColor=0d1117&color=161b22" />
-</a>
-
-</div>
+Last Edited on: 31/08/2020
