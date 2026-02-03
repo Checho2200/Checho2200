@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hola! mi nombre es <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Sergio Ciudad Ora</a></b>.
+    Hola! mi nombre es <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://sergiociudadora.com/">Sergio Ciudad Ora</a></b>.
     <br>Bachiller en ingeniería de sistemas.<br>
 
 </samp>
